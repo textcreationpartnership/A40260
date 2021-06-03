@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something in answer to Lodowick Muggleton's book, which he calls The Quaker's neck broken wherein, in judging others he hath judged himself ... also something in answer to Thomas Fuller in his Church-history, to that which he writes to Barron Brooke wherein he rayles against the Quakers : and something in answer to Samuel Clarke, who calls himself a pastor in his book called A looking-glass for saints and sinners / by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 90KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40260</idno><idno type="EEBO-CITATION">12245189</idno>
+  <idno type="VID">56918</idno>
+  <idno type="EEBO-PROQUEST">2240953919</idno>
+  
+            <idno type="STC">Wing F1914</idno>
+            <idno type="STC">ESTC R31689</idno>
+            <idno type="OCLC">12245189</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56918)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1504:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something in answer to Lodowick Muggleton's book, which he calls The Quaker's neck broken wherein, in judging others he hath judged himself ... also something in answer to Thomas Fuller in his Church-history, to that which he writes to Barron Brooke wherein he rayles against the Quakers : and something in answer to Samuel Clarke, who calls himself a pastor in his book called A looking-glass for saints and sinners / by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Muggleton, Lodowick, 1609-1698. --  Neck of the Quakers broken.</term>
+               <term type="personal_name">Fuller, Thomas, 1608-1661. --  Church-history of Britain.</term>
+               <term type="personal_name">Clarke, Samuel, 1599-1682. --  Mirrour or looking-glass both for saints and sinners.</term>
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56918:1"/>
+            <p>Something in ANSWER TO <hi>Lodowick Muggleton's BOOK,</hi> Which he calls, <hi>The Quakers Neck Broken.</hi>
+            </p>
+            <p>Wherein, in Judging others he hath Judged himself; and wherein he hath Cursed others and Called them, <hi>The Seed of the Serpent,</hi> he hath Cursed himself, and proved himself to be the same; and manifested himself to be of the Spirit of Error, and a false Prophet, and a false Witness and a Satans Messenger, ha<g ref="char:EOLhyphen"/>ving his Commission from him, as by his lies which comes from him doth clearly make manifest out of his own mouth, and he to have Satans Sword, and not Christ's, with which he smites the Righteous, and so hath <hi>Broke</hi> and cut off his own <hi>Neck</hi> with it.</p>
+            <p>ALSO Something in Answer to <hi>Thomas Fuller,</hi> in his <hi>Church-History,</hi> to that which he writes to Barron <hi>Brook,</hi> wherein he Rayles against the <hi>Quakers.</hi>
+            </p>
+            <p>AND, Somthing in Answer to <hi>Samuel Clarke,</hi> who calls himself a Pastor, in his Book called, <hi>A Looking-Glass for Saints and Sinners.</hi>
+            </p>
+            <p>By <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:56918:2"/>
+            <pb n="3" facs="tcp:56918:2"/>
+            <div type="answer">
+               <head>Something in ANSWER TO <hi>Lodowick Muggleton's BOOK,</hi> Which he calls, <hi>The Quakers Neck Broken,</hi> &amp;c.</head>
+               <p>
+                  <label>Muggleton,</label> THou saist, <hi>That</hi> Quakers <hi>will not bestow a penny in any Writing but their own (in the</hi> 82 page <hi>of thy Book) let it cost them ne<g ref="char:EOLhyphen"/>ver so much pains in Writing, and charge in Printing.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This is a Lye known to the Printers and Station<g ref="char:EOLhyphen"/>ners, and that thou hast manifested a lying Spirit, for the Stationers and Booksellers at <hi>London</hi> in this know thy Spirit to be a Lying Spi<g ref="char:EOLhyphen"/>rit; for there are few <hi>Quakers</hi> in <hi>England,</hi> but they have bought Bookes that were not of their own Printing; and therefore what fruits can be lookt for from a lying Spirit, but Cursings and a lying Commission; for he that will lye in one thing will lye in another: But doth not <hi>Muggleton</hi> grumble because he hath not Money for his Lyes and Curses of the <hi>Quakers?</hi>
+               </p>
+               <p>Maggleton saith, <hi>It is a vain thing to talk of heavenly Secrets to the</hi> Quakers, <hi>for they will not bestow a penny of them,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> This is another Lye; for heavenly things are esteemed of, by us, which thou (that art one of the Scorners) callest <hi>Quakers;</hi> but, it seems <hi>Muggletons</hi> heavenly Secrets (as thou callest them) are Money-worth, and may be bought with a price, and he is trou<g ref="char:EOLhyphen"/>bled because he cannot get a price for them, it seems; and this shews an earthly Spirit, wherewith he Blasphemes and Curses so much: And the <hi>Quakers</hi> (as thou callest them) they are free with their Books to give them to any one to Read, but it is a hard thing to get any of thy Books, for several of Friends have gone to thy Disciples to have gotten one of them, and thy Disciples kept them
+<pb n="4" facs="tcp:56918:3"/>so close and so secret, that they would not let them be brought forth to Light and be seen, lest thy Deeds, Curses and Lyes (which thou callest, <hi>heavenly secrets</hi>) should be made manifest: For the <hi>Quakers</hi> in the divine Light, Power and Spirit of Christ Jesus, have and do comprehend and savour thy spirit, and thy Scoffes at the divine Light of Christ Jesus within.</p>
+               <p>Mugl. Thou saist, <hi>Thou hast a Commission without thee to Preach,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> Here thou hast manifested Darkness. Is there any Com<g ref="char:EOLhyphen"/>mission from God, but the understanding of it is given to man by the divine Light within: For, as the Apostle saith, <hi>When it pleased the Father to reveal his Son in me,</hi> he preached him.</p>
+               <p>Mugl. Thou saist, <hi>The right Devil became flesh, and the Soul is Mortal; and thou speakest of thy knowledge of the Lord, and the Scri<g ref="char:EOLhyphen"/>ptures.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Where do the Scriptures say, <hi>That the right Devil became flesh?</hi> and, <hi>The Soul is Mortal?</hi> For, God breathed into man the breath of Life, through which he became a Living Soul: And this breath of Life by which man became a living Soul, Is this <hi>Mor<g ref="char:EOLhyphen"/>tal?</hi> Is this thy Knowledge? Make this good by Scripture.— <hi>Muggleton,</hi> Is this thy Divine Heavenly-Mystery?</p>
+               <p>Mugal. <hi>Thou hast given thy Sentence upon the People called</hi> Quakers, <hi>upon some Information, because some have informed thee, that they have spoken against thy Commission, and yet thou art not certain whether it be true or not.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This is very like thy spirit, who judgest by Reports, and yet thou wilt pass Sentence, whether thy Witness speak true or no, in this thou hast manifested thy undiscerning, that thou hast not the savour to judge the Spirits; for thou saist, <hi>If thy Judgement after<g ref="char:EOLhyphen"/>ward doth not prove true, then it is of no value.</hi> — So thou hast ma<g ref="char:EOLhyphen"/>nifested what Spirit thou dost judge withal, not to be the Spirit of Truth. So thy spirit is manifested clear enough to be a rash, erring, lying, deceitful spirit; and the People, called <hi>Quakers,</hi> do com<g ref="char:EOLhyphen"/>prehend thee, (who are of the Faith of <hi>Abraham</hi>) and by thy con<g ref="char:EOLhyphen"/>demning others, thou condemnest thy self, and art come under the chain of darkness, in all thy Curses and Blasphemies, against the divine and spiritual Light of Christ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esus; who according to thy own writing canst not discern Reporters.</p>
+               <pb n="5" facs="tcp:56918:3"/>
+               <p>Mugl. <hi>And whereas thou saist, thou art a Witness of the Spirit, and givest the Sentence of Eternal Damnation.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In this thou manifestest another Lye, for thou hast mani<g ref="char:EOLhyphen"/>fested not the Spirit of discerning, as before mentioned, and so thy spirit to be a dark lying spirit, and so in condemning another, thou hast condemned thy self, and thy own words will be thy burden.</p>
+               <p>Then again <hi>Muggleton,</hi> thou saiest, <hi>Thou accusest no man of sin.</hi>
+               </p>
+               <p>Yet in a few Lines after thou accusest the <hi>Quakers</hi> of sin and blasphemy. Here thy own spirit hath given thee the lye, which is found in thy mouth. In the same <hi>Page</hi> 73 in manifesting a spirit of darkness and lyes, and not of God; and therefore hast thou judged and condemned a People, which Judgement comes upon thy self and touches them not; so thy Spirit is a Spirit of pre<g ref="char:EOLhyphen"/>sumption and cannot judge in Spiritual matters, which thou so much boastes of.</p>
+               <p>Muggle. Thou saiest, <hi>Thou judgest as the Prophets and Apostles did.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In this thou hast manifested another lye. The Apostles said, <hi>Bless and Curse not.</hi> And <hi>Peter</hi> saith, <hi>Out of the same Fountain there cometh not sweet Water and bitter, blessings and cursings,</hi> which come out of thy muddy Fountain, and from a lying Spirit.</p>
+               <p>Mugl. Thou saist, <hi>God hath given thee to know the Law, and Book of Scriptures, more than all the men of the World hath this day.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This is <hi>Lucifer</hi> like, who art ignorant of the Spirit of God, and contradicts them. See in the same <hi>Page</hi> aforementioned, who goest contrary to the Scriptures, shewing another Spirit then they did that gave them forth, so art of the Ser<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent that cursed Spi<g ref="char:EOLhyphen"/>rit whose mouth is full of Cursing; and leads People into new Fan<g ref="char:EOLhyphen"/>gles and Imaginations.</p>
+               <p>Mugl. Thou saiest, <hi>The Scriptures stand upon the true God and right Devil.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The Scriptures of Truth were given forth from the Spirit of God, and not from such an earthly lying spirit as thine is. The Scriptures of Truth which speak of God, and his People, and of the wicked One the Devil, and of wicked Men, <hi>&amp;c.</hi> But where doth the Scripture speak of a right Devil?</p>
+               <p>Mugl. Thou saiest, <hi>No</hi> Quaker <hi>can have any state of Eternal Life tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> denyes Christs Flesh and Bones which Suffered,</hi> &amp;c.</p>
+               <pb n="6" facs="tcp:56918:4"/>
+               <p>
+                  <hi>Answ.</hi> Here are more of thy Lyes, which proceed from the ly<g ref="char:EOLhyphen"/>ing spirit of Satan. The <hi>Quakers</hi> are Witnesses of Christs death and Suffering, and do not deny his Flesh and Bones, who remain in the Heavens until the restitution of all things, and they are Heires of the power of an endless Life; and are flesh of his flesh, and bone of his bone: and so thy lying spirit thou hast manifested, and thy ignorance of them, and of the Spirit that gave forth the Scriptures.</p>
+               <p>Mug. And thou saiest, <hi>Those that receive the Commission of the Spirit judge of men and womens Spiritual and Eternal State; and thou saiest, that God hath made thee chief Judge.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here thou boastest thy self and seemest to strengthen thy fleshly Disciples, and hast brought thy self under the judgement of Christ, who saith, <hi>Bless and Curse not,</hi> who is the chief Judge, and judgeth righteously, but thou judgest with a lying Spirit, for Christ is the chief Judge, but thou saiest, <hi>He is not within thee, but without thee;</hi> who callest thy self a chief Judge, who must know thy own condition before thou canst know others.</p>
+               <p>Mugl. Thou saiest, <hi>God hath given thee the Book of the Law, which is the Scriptures, into thy hands.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> By that Law thou art judged out of thy own mouth, which saith, <hi>Bless and Curse not.</hi> And this is another of thy lyes, and thee and thy Disciples know not the Spiritual and Eternal State of men and women, and so cannot judge but amiss of them with your lying spirit; for thou who callest thy self a <hi>Witness,</hi> being a lying spirit, thou canst beget no other but a lying spirit in thy Disciples, and the lying spirit knows not the condition of its self nor others.</p>
+               <p>Mugl. Thou saiest, <hi>Thou hast seen some of thy Disciples have pas<g ref="char:EOLhyphen"/>sed sentence of Cursing upon others, and it hath turned back again upon themselves.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This we believe, That both thine and thy Disciples sen<g ref="char:EOLhyphen"/>tence is turned, and will turn back again upon thy self, and upon thy Disciples; and all the dark sentences you have or shall pro<g ref="char:EOLhyphen"/>nounce with your lying spirits.</p>
+               <p>And <hi>Muggleton</hi> saith, <hi>Peter was chief Judge among the Apostles; so there must be one particular man among them to be chief in all places; so</hi> John Reeve <hi>and himself were chosen.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here thou hast contradicted thy self again, for thou saist,
+<pb n="7" facs="tcp:56918:4"/>There must be One in all places, and thou hast set up Two. And another lie thou speakest, of <hi>Peter</hi> being Chief of the Apostles, so chief Judge. Read in the <hi>Acts</hi> and thou mayest see it was <hi>James</hi> that gave the Sentence in the Council of the Apostles concerning the Churches, and not <hi>Peter:</hi> And this thy Lye concerning <hi>Peters</hi> being Chief, is contrary to the Spiritual Law of Christ Jesus, who saith, <hi>They shall not exercise Lordship one over another, for they are Bre<g ref="char:EOLhyphen"/>thren;</hi> that was the way of the Gentiles to do so, and the Phari<g ref="char:EOLhyphen"/>sees, which he reproved: which is the way now of <hi>John Reeve</hi> and <hi>Muggleton.</hi> And here is thy ignorance of the Scriptures sufficien<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly manifested, and thy Spirit of Error in perverting of them, and hath brought thy self under the Judgement of Christ and his Dis<g ref="char:EOLhyphen"/>ciples, and all the Faithful, to be a lying spirit, and a false witness, and hast ensnared thy self in thy own words, who wouldest set thy self up like a Pope.</p>
+               <p>And thou lyest, and callest thy Commission to be the <hi>Commission of the Spirit of God,</hi> and scoffest and mockest at the Divine and Spiritual Light of Corist in the People of God called <hi>Quakers,</hi> which is and will be thy condemnation, together with all thy curses, and blasphe<g ref="char:EOLhyphen"/>mies, and lies in thy third page.</p>
+               <p>Now where <hi>Muggleton</hi> goes about to make people believe that <hi>Cain</hi> was not begotten by <hi>Adam,</hi> as he was flesh and bone, which shews another spirit of Error, and not that Spirit that gave forth the Scriptures, for <hi>Evah</hi> saith, <hi>I have begotten a man from the Lord;</hi> and thy false witness, and thy lying spirit, makes as though <hi>Cain</hi> should be begotten by the Reprobate Angels. And the Scripture saith, Adam <hi>knew</hi> Evah <hi>his Wife, and she conceived, and brought forth a Son, and called his name</hi> Cain; and she said, <hi>She had got<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en a man from the Lord.</hi> And thou speakest as though he were be<g ref="char:EOLhyphen"/>gotten from the Devil, and by him. So thou hast manifested, who is thy Father, the Serpent, thou speakest of.</p>
+               <p>
+                  <hi>Mug.</hi> Thou sayest, <hi>That God created the person of the Serpent, who was more glorious then the holy Angels.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Where findest thou a Scripture for this? thou hast presumed above what is written. What is the Serpent above the Angel of the Covenant, and above the Angel of his presence, and above <hi>Michael</hi> the Arch Angel, and above the Angel that slies through the midst of Heaven with the everlasting Gospel to preach? Was
+<pb n="8" facs="tcp:56918:5"/>not <hi>Adam</hi> and <hi>Evah</hi> set above the Serpent before they fell, when they were set above all that God made? And thou saist, <hi>That</hi> Ed<g ref="char:EOLhyphen"/>ward Bourn <hi>is the Seed of the Serpent,</hi> in thy rage, because he hath witnessed against thy Lyes, which thou callest <hi>Pure Truth,</hi> which is contrary to the Apost<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es and to Christ.</p>
+               <p>And <hi>Muggleton</hi> saith, <hi>That he and</hi> Reeve <hi>are the Last Witnesses of God on the Earth.</hi> And saith, <hi>He hath Cursed</hi> Edward Bourn, <hi>and Damned him Soul and Body from the presence of God and his Angels;</hi> An<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then he scoffes at the Divine and Spiritual Light of Christ within. See his 6<seg rend="sup">th</seg>
+                  <hi>Page.</hi>
+               </p>
+               <p>Ah poor Creature, thou art guided with the spirit of darkness, that knowest not thy own condition, who art full of darkness and errour, lyes and rage; <hi>For God hath not left himself without witness in the Earth; and there are three that bear witness in the Earth, the Spirit, the Water and the Blood;</hi> and <hi>Muggleton</hi> is but one, for <hi>Reeve</hi> is dead, he saith: And they that have the Water, have the Spirit, and have the Blood which are the Witnesses; <hi>And keep the Testi<g ref="char:EOLhyphen"/>mony of Jesus, and love not their lives unto death,</hi> as <hi>Muggleton</hi> did, else how got he out of <hi>Darby</hi> Prison for his Blasphemies? How shuffled he out of <hi>Darby shire,</hi> when he was touched a little with the Powers of the Earth; but he knowes the People of God will use no violence to him, and therefore he is so liberal in his Curses and Dam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ings, even of the Souls of People, though he knows not yet what it is; who hath shewed another Spirit than Christs, and his faithful Witnesses the Apostles, who say, <hi>Bless and Curse not,</hi> but thine is a Curser. But <hi>Edward Bourn,</hi> who is in the divine Spirit and Light of Christ, thou canst not Judge nor Curse, who knowest not his condition nor thy own; but they are turned back upon thy own head, and sealed with the Spirit.</p>
+               <p>Magl. Thou saist, <hi>The Light of Christ which the</hi> Quakers <hi>speak of, will vanish away like the Smoak, and come to nothing.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> We say as Christ saith, <hi>He is the Light,</hi> and his divine and spiritual Light will be thy Condemnation, as in <hi>John</hi> the third, but thy Cursings, and Damnings, and Lyes, will be all Fuel for to kindle the Fire of Hell against thee, and the Light of Christ will abide when all thy Lyes and Smoak is condemned by it.</p>
+               <p>Mugl. And thou saiest, <hi>That the</hi> Quakers <hi>will have no person of Christ at all.</hi>
+               </p>
+               <pb n="9" facs="tcp:56918:5"/>
+               <p>
+                  <hi>Answ.</hi> This is another of thy lies, for we say as the Apostle said, who spoke in the Person of Christ; and thus thou addest lie to lie. But thou that hatest the Light, what hast thou to do to talk of the Holy Ghost, or Christ, or God, which hatest his Light, and art not reformed.</p>
+               <p>And whereas <hi>Muggleton</hi> saith, <hi>The</hi> Quakers <hi>were of the Ran<g ref="char:EOLhyphen"/>ters.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I say, <hi>Muggleton</hi> and his Disciples might have taken that to themselves who say, <hi>The Soul is Mortal,</hi> and scoff at Christ's being within, and by their fal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e witness would cast a blemish upon them that are of the righteous Seed; but they are far enough above it, it touches them not. And <hi>Muggleton</hi> is offended, because some of the People called <hi>Quakers</hi> have been Sword-men and Ranters. Let <hi>Muggleton</hi> look among his own Disciples and see if none of them have been Sword-men and Ranters: and are they not so still? And if them that are <hi>Quakers</hi> were some of them <hi>Ramers,</hi> they have forsaken their Vice, and broken their Swords into Plow-shares, which I hardly believe that any of <hi>Muggletons</hi> Disciples have done it yet. Thou mayest find fault with <hi>Peter,</hi> which had a Sword, and the <hi>Jewes</hi> which were Sword-men, which after <hi>Peter</hi> was to put up his Sword by the command of Christ, <hi>&amp;c.</hi> and the <hi>Jewes</hi> also when they came to the Kingdom of Christ, as <hi>Peter</hi> did; and we are of the same Faith of the Apostles, and Church in the Primitive time, who were to love one another, and enemies also.</p>
+               <p>And thou makest a large discourse of the Mortality of the Soul, and sayest, <hi>It's Mortal,</hi> when the <hi>Quakers</hi> queried of thee, Whe<g ref="char:EOLhyphen"/>ther it were Immortal or no? And in stead of answering, thou rail<g ref="char:EOLhyphen"/>est, and callest them <hi>Devils,</hi> not worthy to be answered to, as touch<g ref="char:EOLhyphen"/>ing the Soul; and callest them deep Secrets, <hi>&amp;c.</hi>
+               </p>
+               <p>Now all People may see whether this be an answer by one that professeth himself to be a Witness, and can Interpret Scripture; whose evil words hath corrupted his manners; but this hath mani<g ref="char:EOLhyphen"/>fested thy insufficiency and thy ignorance. If they had been Gain<g ref="char:EOLhyphen"/>sayers, thou shouldst have convinced them; in stead of that thou fallest a cursing of them, and callest them, <hi>The Children of the Ser<g ref="char:EOLhyphen"/>pent:</hi> Who art one of the Spirit of the World in thy Ju<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gement, judging the Children of the Light, of the Most High, with thy dark spirit, contrary to the Spirit which gave forth the Scriptures, which
+<pb n="10" facs="tcp:56918:6"/>was to convince gain-sayers, and to be ready to give a reason of the hope that was in them.</p>
+               <p>Mugl. And thou saiest, <hi>That Christ is not in the Quakers.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> And why; because they bear testimony against thy lying spirit, and because the <hi>Quakers</hi> say, they are in the Spirit of Christ before Antichrist was; these are exceeding lies.</p>
+               <p>Mugl. Saith, <hi>Antichrist hath been ever since</hi> Cain <hi>in the world, Page</hi> 15.</p>
+               <p>
+                  <hi>Answ.</hi> Here all People that will not stop their eyes, that have the least spark of truth to guide them, and are guided by it, may comprehend <hi>Muggleton,</hi> for you know, <hi>That Christ was before the world began;</hi> yea, before <hi>Cain</hi> was, and so before Antichrist was. Christ was glorified with the Father before the world began; and the <hi>Quakers</hi> which have the Spirit of Christ, comprehend <hi>Muggle<g ref="char:EOLhyphen"/>ton</hi> with his lyes and his lying spirit, together with all his Cursings, and his Damnings, and hath Judged him with the Spirit of Christ, and there the sentence is gone over his head.</p>
+               <p>Muggleton saith, <hi>That the</hi> Quakers <hi>Christ hath never a Body, which they have gotten within them.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here is more of <hi>Muggletons</hi> lies, who scoffes at Christ within, which we and the Apostles preached, warning every man, and presenting every man perfect in Christ Jesus; and Christ whom we preach in you, the hope of glory. And thus the false witness scoffes at Christ within; and Christ, we say, hath a Body, for that which descended ascended, and hath a Spirit, and the <hi>Quakers</hi> are of his Body, and as the Scripture saith, <hi>A Body hast thou prepared me.</hi>
+               </p>
+               <p>Muggleton Jeers, and saith, <hi>The</hi> Quakers <hi>are sent by a Light within them to preach,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> In this thou hast shewed thy ignorance of the true Com<g ref="char:EOLhyphen"/>mission: that which gives the knowledge of the glory of God in the face of Christ Jesus is the Light within in the heart, 2 <hi>Cor.</hi> 4. That which makes manifest is Light, and they are Ministors of the Spirit and not of the Letter.</p>
+               <p>And Muggleton saith, <hi>Reason the Devil, thinks to have a Revail from Heaven, for he will preach in his Name, and cast out Devil in his Name,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> What is the Devil dividing himself? Where was the
+<pb n="11" facs="tcp:56918:6"/>Delil called <hi>Reason</hi> in the Scripture? And dost thou not say in ano<g ref="char:EOLhyphen"/>ther <hi>Page</hi> thou wilt shew People thy Reason without any distincti<g ref="char:EOLhyphen"/>on, and then thou judgest thy self out of thy own mouth to be the <hi>Devil Reason.</hi>
+               </p>
+               <p>And again People may see thy ignorance, that they that had cast out Devils &amp; preached in his Name, it was by the Power of God, which they were departed from into the lying spirit which thou art in; and so departing from the Power of God into the Iniquity, Christ bids them depart from him, and this is thy interpre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of Scripture. Here again thou hast sufficiently manifested thy spirit, which is comprehended by the Truth.</p>
+               <p>Muggleton saith, <hi>The World can hardly bear his Message.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Yes; they that be in the same spirit of Curling will bear thee, who, it seems, have been in this Cursing Damning spirit a matter of eleven years, and the world will love her own.</p>
+               <p>And Muggleton saith, <hi>His mouth is full of Cursing, and that is his Commission,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> It may be <hi>Muggleton</hi> may frighten some evil Conscien<g ref="char:EOLhyphen"/>ces, in whom his cursed Spirit may enter, and terrifie them that are ignorant and disobedient to the true Spirit of Christ, which saith, <hi>Bless and Curse not;</hi> who is the same yesterday, and to day, and the same for ever.</p>
+               <p>And Maggleton saith, <hi>He rejoyceth in his Cursings, and them that he doth Curse and Sentence, shall never see any other God or Judge.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> How now <hi>Muggleton,</hi> Art thou become God and Judge? Must not all appear before the Judgement seat of Christ, to have their Sentence and Reward from him, whether they have done good or evil? And every eye shall see him. What will <hi>Muggleton</hi> give all the Prophets and Apostles the lye? Do not all see him here to be in a lying spirit, and not in the Spirit of Christ nor the Apostles, nor hath he the mind of Christ, but is comprehended here to be of another mind.</p>
+               <p>And Muggleton saith, <hi>Because he hath passed Sentence upon the</hi> Quakers, <hi>They shall never grow to have more experience in Visions and Revelations, but shall wither.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here are more Lyes of <hi>Muggletons,</hi> for the Truth spreads, yea and will spread over the World more and more, as thousands can witness since <hi>Muggleton</hi> began to Curse, who hath been a
+<pb n="12" facs="tcp:56918:7"/>Curser these eleven years, or thereabouts. And all the Curses that thou hast cursed upon leveral that thou hast named, they are clear over thy spirit, yea, in the Spirit of God, before thy cursing spirit was, who are redeemed by Christ, who became a Curse, and hath redeemed from under the Curse.</p>
+               <p>And Muggleton saith, <hi>That Scripture is nothing to him, wherein Christ saith,</hi> Bless and Curse not; <hi>and saith, That was before Christ was ascended.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here again <hi>Muggleton</hi> shews his Ignorance of Scripture and the spirit of Errour; for Christ said, <hi>Bless and Curse not,</hi> to his Apostles, which command they practised after Christ was ascended, and bid them lay away Cursings, <hi>&amp;c.</hi> And so he would make that Christ was not the same to day as he was yesterday, and so for ever. Thus he sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffles up and down, whose cursed spirit is like unto his doctrine, and that power which was given to <hi>Peter</hi> was given to the other Apostles, to bind on earth, and to loose, <hi>&amp;c.</hi> And <hi>Peter</hi> was not made Head, as thou lyingly sayest: But thou wouldest be like a Pope.</p>
+               <p>And Muggleton saith, <hi>That</hi> Peter <hi>and the rest of the Apostles were not tyed to the words of Christ, after they had received their Com<g ref="char:EOLhyphen"/>mission.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here all People in the Truth may see and comprehend thy spirit, because Muggleton is gone from the words of Christ, and is not tyed to them, but to his own Curses; yet he belyes the Apostles, and saith, <hi>They were not tyed to his words.</hi> So his own ly<g ref="char:EOLhyphen"/>ing will not serve his turn, but he must belye others, and make Peo<g ref="char:EOLhyphen"/>ple believe that the Apostles were not tyed to the words of Christ, as though they preached themselves as he doth; for they preached what they had heard and seen of him, and what they had handled, and preached not themselves. How canst thou publish such lies in Print without blushing.</p>
+               <p>And then <hi>Muggleton</hi> boasts of his wisdom above all men in the Scriptures, wherein he shews his ignorance, and that none can know nor interpret the Scriptures but himself; wherein thou hast shew<g ref="char:EOLhyphen"/>ed thy ignorance sufficiently to all that do not stop their eyes.</p>
+               <p>And Muggleton saith, <hi>That none must be Ministers, or Messengers, or Embassadors of Christ, but such as are authorized of</hi> John Reeve <hi>and himself.</hi> And then he Scoffes at the divine Light of Christ within.</p>
+               <pb n="13" facs="tcp:56918:7"/>
+               <p>
+                  <hi>Answ.</hi> Thou hast manifested thy insufficiency enough either in interpreting or knowing the Scriptures by thy lying spirit. And every one must approve themselves to God, for to him they must give an account, and not to <hi>Muggletons</hi> lying spirit, and <hi>John Reeves.</hi>
+               </p>
+               <p>And <hi>Muggleton</hi> saith the words of Christ over again, which was spoken to the Apostles, which is, <hi>Bless and Curse not;</hi> and saith, these words be nothing to him, yet he saith, <hi>If any man preach any other Gospel, let him be accursed, then the Apostles preached.</hi> So here any man may see how he hath confounded himself again, for the Apostle saith, <hi>Bless and Curse not.</hi> So <hi>Muggleton</hi> here hath brought the Curse upon his own head, who rejoyceth in his own Cursing.</p>
+               <p>And Muggleton saith, <hi>The Quakers Judgement is from the Letter of the Scripture without them, or else from the Light within them, and this is not worth a straw.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Mark this mans discerning, together with his unsavoury words. <hi>Their Judgement</hi> (saith he) <hi>is either from the Scriptures, or from the Light within, and this</hi> (saith he) <hi>is not worth a straw.</hi> But whither it is from he hath not manifested. But his Judgement is neither from the divine Light within, nor from the Letter of the Scriptures, his cursing and damning men and womens Souls to Hell. We have tryed his spirit, and the Quakers Judgement is from the Spirit that gave forth the Scriptures; the Spirit of Christ which was before Scripture was in the divine and spiritual Light of Christ within.</p>
+               <p>Muggleton saith, <hi>The Quakers deny the Son to be a person in the Form of a Man, which suffered death, and is risen.</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> These are more of thy lyes, for we own the Son of God and his Flesh, Bone and Blood, who was Crucified, and laid in the Grave, and Rose again, and sits at the Right Hand of God, and are Members of him; and therefore thou utterest forth thy folly, and thy Lyes and thy shame to cover thy self.</p>
+               <p>And because the <hi>Quakers</hi> say, Christ is the express Image of the Fathers Substance, and they own the Father and the Holy Ghost, and they are flesh of his flesh, and bone of his bone, and they have the mind of Christ; <hi>Muggleton</hi> saith, <hi>This is a Riddle to me.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> We do believe it, that this is a Riddle to the Lying Pro<g ref="char:EOLhyphen"/>phet
+<pb n="14" facs="tcp:56918:8"/>and false Witness, that yet boasts of knowing the Scriptures, but is ignorant of them, and interpreting the Scriptures, and the knowledge of Christ, which now is become a Riddle to him, which is God manifested in the flesh, seen of Angels, believed of in the Word, and by us who are of his flesh and bone.</p>
+               <p>And <hi>Muggleton</hi> thou speakest of some in <hi>Eastcheap,</hi> and one thou callest a <hi>Lubberly fellow,</hi> that denied Christs flesh and bone, but this is like the rest of thy lies, together with thy evil spirit that despi<g ref="char:EOLhyphen"/>seth Gods workmanship.</p>
+               <p>Muggleton saith, <hi>That the Person of Christ, nor his Essence, cannot be in the World, nor in the</hi> Quakers, <hi>nor in Himself, who is a chosen Messenger of him.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> If the Being of Christ, or his Essence, or Nature, or Pow<g ref="char:EOLhyphen"/>er be not in thee which is in his Saints, and was revealed in the Apostles, that spoke in the Person of Christ, thou hast manifested thy self to be no Minister of him.</p>
+               <p>And Muggleton saith, <hi>He could never find any</hi> Quaker <hi>that would own God to be a Person in form of a Man, which shews the</hi> Quakers <hi>darkness.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here <hi>Muggleton</hi> the Prophethath shewed his Ignorance of the Scriptures, for the Scripture saith, <hi>That God is a Spirit.</hi> And Christ saith, <hi>That a Spirit hath not flesh and bone as I have.</hi> And, <hi>God fills Heaven and Earth;</hi> God saith so of himself. Herein thou hast shewed thy ignorance and darkness.</p>
+               <p>And Muggleton saith, <hi>That Christ hath a distinct Body of flesh and bone of his own.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Is Christ distinct from his Saints? then how come they to be of his flesh and bone? But this is a Riddle to the Prophet <hi>Mug<g ref="char:EOLhyphen"/>gleton.</hi>
+               </p>
+               <p>And Muggleton saith, <hi>The Quakers blaspheme, in saying, accord<g ref="char:EOLhyphen"/>ing to the flesh Christ was of</hi> Abraham, <hi>and of</hi> David, <hi>&amp;c. for they were</hi> Jewes <hi>that persecuted Christ.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In this thou hast shewed thy Ignorance of Scripture; and as for the Blasphemies, they are from thy own lying spirit, for ac<g ref="char:EOLhyphen"/>cording to the flesh he was of <hi>David, Rom.</hi> 1.3. <hi>For the Lord hath sworn with an Oath, that of the fruit of his loynes, according to the flesh, he would raise up Christ. Which took not upon him the nature of An<g ref="char:EOLhyphen"/>gels, but the Seed of</hi> Abraham. <hi>Of whom are the Fathers, and of whom
+<pb n="15" facs="tcp:56918:8"/>concerning the flesh Christ came,</hi> Rom. 9. And Acts 2. <hi>He took not upon him the nature of Angels, but the Seed of</hi> Abraham. And though the <hi>Jewes</hi> had transgressed the Law of God and the Prophets, and gone into the evil Seed, and turned against Christ; yet this altereth not the fulfilling the Prophets Prophesies of him, nor Gods words, that saw of whom he should come; though thou in thy darkness and evil nature of the transgressing <hi>Jewes</hi> knowest him not, nor his generation, no more than they did being out of the Faith of <hi>Moses</hi> and the Prophets, and Apostles, as the <hi>Jewes</hi> were.</p>
+               <p>Muggleton saith, <hi>This Body of Christ, which is the only God;</hi> Yet contradicts himself again, and saith, <hi>The Quakers know no other Christ but according to the flesh, that is, according to the Seed of Reason, and Reason is the Devil he saith.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here may all see thy darkness and confusion; For God is a Spirit, and God is in Christ, who prepared Christ a Body; there cannot be Christ without God, for Christ signifies, <hi>the anointed of God.</hi> And the Quakers do know Christ in the flesh. And the Apo<g ref="char:EOLhyphen"/>stle saith, <hi>They had known Christ after the flesh, but henceforth they would know him so no more.</hi> And most of thy talk of him is about his flesh, and art ignorant of what thou talkest, or what thou a<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>est; and Christ his Body is above the Devil, for his flesh saw no corruption, which is a Mystery to thee who art full of darkness, even in the very Pit of it I feel thee; and the Spirit of God is over thee, and Christs flesh and his body is over thee, who art as igno<g ref="char:EOLhyphen"/>rant of it as thou art of the <hi>Quakers</hi> Principles.</p>
+               <p>Muggleton saith, <hi>The Scriptures take no notice of the outward body of flesh.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here dost thou not give thy self the lye again? Didest thou not say before, it spoke of the Body of Christ, his flesh and his bone? And doth it take notice of no outward bodies of flesh? and also doth not the Apostle say, <hi>Your Bodyes are the Temple of God;</hi> and, <hi>Glorify God in your Bodies and Spirits, which are the Lords?</hi> And <hi>Your Bodies are not for Fornication? And a Body thou hast given me, to dothy Will, O God? Christ was manifested in our mortal Bodies.</hi> And what? can Muggleton see no Scripture that takes notice of outward Bodies. Yet the Prophet <hi>Muggleton</hi> saith, he hath all Scripture gi<g ref="char:EOLhyphen"/>ven into his hands. This is one of <hi>Muggletons</hi> Ranting P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inci<g ref="char:EOLhyphen"/>ples.</p>
+               <pb n="16" facs="tcp:56918:9"/>
+               <p>
+                  <hi>Muggleton</hi> saith, <hi>The</hi> Quakers <hi>make no distinction betwixt the Per<g ref="char:EOLhyphen"/>son of Christ, and the Light of Christ.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This is another of thy lies. For he suffered according to the flesh, and rose again by the same power that quickned us, who enlightneth us; yet we say, <hi>That Christ is the Light of the World, and enlightens every man, &amp;c.</hi> and God is Light, and was in Christ, and the Light gives the knowledge of him, which thou scoffs at.</p>
+               <p>
+                  <hi>Muggleton</hi> saith, <hi>The</hi> Quakers <hi>Christ is an Imaginary Christ, be<g ref="char:EOLhyphen"/>cause they say, according to the flesh he is of</hi> Abraham, <hi>and of</hi> David; <hi>and</hi> Abrahams <hi>Children according to the flesh are of</hi> Cain.</p>
+               <p>
+                  <hi>Answ.</hi> Here again are thy lies, who art the lying witness; Was not <hi>Jacob, Isaac,</hi> and <hi>Samuel,</hi> and the Prophets, of the Seed, and of the Flesh of <hi>Abraham?</hi> Did not Christ take upon him the Seed of <hi>Abraham;</hi> and not the Nature of Angels, but the Seed of <hi>Abra<g ref="char:EOLhyphen"/>ham?</hi> This is thy interpreting with thy dark spirit, and with thy ignorance. Now those Jews that did not live in the Spirit, to the Law of God, as the Prophets, <hi>Abraham, Isaac,</hi> and <hi>Jacob</hi> did, but were persecutors of such as were in the Life and Faith, those were of <hi>Cain,</hi> and in his Nature.</p>
+               <p>
+                  <hi>Muggleton</hi> saith, Solomons <hi>writings are no Scripture, which you bring to prove your Scripture Light, and knowledge of Christ by, for</hi> Solomons <hi>writings are no more then the</hi> Apocrypha.</p>
+               <p>
+                  <hi>Answ.</hi> It's like that all Scripture is no more of authority to thee, then <hi>Solomon</hi> and the Apocrypha, for <hi>Solomon</hi> saith, speaking of Christ and the Church, <hi>He was with him before the Hills were setled; and was by him when all things were made;</hi> but thou hast manifested another Spirit, which differs from <hi>Solomons,</hi> shewing thy ignorance of his words.</p>
+               <p>
+                  <hi>Muggleton</hi> saith, <hi>That none can interpret Scripture but himself, and none knows God and Christ but himself, and he is made Judge of Scripture.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This is all self, who hath manifested thy self to be out of the Spirit that gave forth Scripture, in a Spirit that hath uttered forth these lies, who hast them from thy Father the Devil, and not from God; this is the Word of the Lord to thee.</p>
+               <p>
+                  <hi>Muggleton</hi> saith, <hi>The</hi> Quakers <hi>have no understanding from God and Christ, but the dead Light, from other mens words, and then he follows on with railings.</hi>
+               </p>
+               <pb n="17" facs="tcp:56918:9"/>
+               <p>
+                  <hi>Answ.</hi> These are more of thy lies. Our knowledge is from the Father, and Christ, and the Holy Ghost, which leads into all Truth, and so our understanding is by the Spirit, and not from others dead Letters and mens Words; who are come to the Just mens Spirits, and God the Judge of all, yea, and are lead by the Spirit that gave forth Scriptures, which is before it was; by which we comprehend both <hi>Muggleton</hi> the lying Prophet and Witness, and his Fa<g ref="char:EOLhyphen"/>ther.</p>
+               <p>Mugl. saith, <hi>The Quakers were never sent from God without them, but only a Light within them; and though it be the Light of Christ, yet it will not give them the knowledge of God, but will perish.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Did you ever hear such lies from one that calls himself a Prophet, and the Last Witness? who hath manifested himself and his Father, who is a Lyar from the beginning. What, will not the Light of Christ give the knowledge of God? Doth not he here give the Apostles the lye? who say, <hi>The Light that shineth in their hearts will give them the Light of the knowledge of the glory of God in the face of Christ Jesus,</hi> 2 Cor. 4.</p>
+               <p>And also <hi>Muggleton</hi> blasphemously saith, <hi>That this Light of Christ will perish.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This will be his condemnation, and shews his ignorance of the Scriptures; For, <hi>He that believes hath the Witness in himself.</hi> And with the heart he believes, and then Confession is made unto Salvation, which is Christ. So, can any be sent of God, but first he must have it in his heart, before confession to Christ, his Salva<g ref="char:EOLhyphen"/>tion, be made, and preach him? Doth any man know the things of God but the Spirit of God? And doth not the Scripture say, <hi>That God will walk in you, and dwell in you?</hi> This is all without <hi>Muggleton,</hi> who is without God in the world, who scoffes at the Light within, but this Light will be his condemnation, <hi>John</hi> 3.</p>
+               <p>Mugl. Saith, <hi>Those men which spoke forth the Scriptures, knew what the Light of Christ was, but knew nothing truely what the Light of Christ is.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here is more of thy confusion, and lyes, and contradicti<g ref="char:EOLhyphen"/>ons; Can man know the Light of Christ what it was, and yet know not what it is? But we must tell <hi>Muggleton</hi> that we know Christ, who doth enlighten every man that cometh into the world, with a saving Divine Light, which is the condemnation of every one that
+<pb n="18" facs="tcp:56918:10"/>hateth it; had we never seen Letter of Scripture, or any man: and therefore the false Prophet is ignorant of us, and our Commis<g ref="char:EOLhyphen"/>sion, of speaking in the Power, and Spirit, and in the divine Light of Christ, had we never seen Letter of Scripture nor man.</p>
+               <p>Muggle. Saith, <hi>That the Light within will avail nothing, for there are but three estates;</hi> Egypt, <hi>the</hi> Wilderness, <hi>and the Land of</hi> Ca<g ref="char:EOLhyphen"/>naan.</p>
+               <p>
+                  <hi>Answ.</hi> Here are more of thy lies, and confusions, and ignorance of the false Witness and Prophet, who followeth his own spirit to say, <hi>That the Light will avail nothing:</hi> For, <hi>The Light of Christ gives the knowledge of the glory of God in the face of Christ.</hi> And <hi>believing in the Light, they come to be children of the Light.</hi> And thou givest the Apostle and Christ the lye, and sayest, <hi>It will avail nothing.</hi> Who art worse than the <hi>Pharisees,</hi> and like unto the <hi>Ranters,</hi> and all other Professions, and become darker than some of them. And what, is there nothing but <hi>Egypt,</hi> and the <hi>Wilderness,</hi> and <hi>Cannan</hi> in man? thou saiest, <hi>There is none but these three states.</hi> It seemes thou hast not found <hi>Babylon</hi> in thee, that is not yet discovered to the false Prophet, and false Witness; and the Prophet hath not seen <hi>Sodom</hi> yet, neither hath he seen <hi>Judas, Ishmael</hi> nor <hi>Cain,</hi> nor prophane <hi>Esau,</hi> nor the cursed Speaker the Apostle speaks of: And much more might be spoken to the blind Prophet and false Witness, which he might see in him, which the <hi>Quakers,</hi> as he calls them, have seen and comprehended, <hi>Page,</hi> 27.</p>
+               <p>And <hi>Muggleton</hi> saith, <hi>The Quakers propounded Questions to him that they could not answer themselves; which,</hi> he saith, <hi>he never pro<g ref="char:EOLhyphen"/>pounded any, but he could answer himself.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This is <hi>Muggletons</hi> shuffle, in stead of Answering thy Queries, we know thy Answers are a company of Railings and Cursings.</p>
+               <p>
+                  <hi>This Devil,</hi> saith Muggleton, <hi>spoken of in Scripture, is nothing but the spirit of Reason, that kild the Righteous in a killing power.</hi>
+               </p>
+               <p>Here you may see <hi>Muggletons</hi> Judgement and Spirit; For, to say, <hi>The Devil, who is Reason, kild the Just;</hi> For he it is that leads to judge unrighteously, and to do unjustly; and unreasonable men that have not the Faith that is from thy Father the Devil, who put<g ref="char:EOLhyphen"/>eth Reason for Unreason, and so Light for Darkness; and unreason<g ref="char:EOLhyphen"/>able
+<pb n="19" facs="tcp:56918:10"/>men have not faith. Shewing, that a reasonable man hath the Faith of the Elect; And so now by <hi>Muggletons</hi> Argument, <hi>it was Reason that kild</hi> Abel, and Reason that doth all unreasonable things; and it was Reason that led People to steal, to cozen, and to cheat, to do unjustly and unrighteously. For this is <hi>Muggletons</hi> Commission, to <hi>Curse.</hi>
+               </p>
+               <p>For saith <hi>Muggleton, Who is a Prophet and the Last Witness? who hath a Commission to Curse? The Devil,</hi> he saith, <hi>hath no other spirit but Reason.</hi>
+               </p>
+               <p>So he hath clearly manifested his spirit to be of the unreasonable, and so a false Prophet, and a false voice, from the Devil, the god of the world, which was a lyar from the beginning, and an unreason<g ref="char:EOLhyphen"/>able one; for all they that went into the Devils Power, and had not the Faith, were unreasonable, seeing it was the Faith that made People reasonable; but this is <hi>Muggletons</hi> work he hath from his god of the world. And the Apostle saith, <hi>People must give a reason of their Faith,</hi> then <hi>Muggleton</hi> saith <hi>They must do it by the Devil,</hi> for he calleth the <hi>Devil, Reason,</hi> without distinction. Was there ever heard such Blasphemy!</p>
+               <p>Mugl. And he saith, <hi>It was the very God-head-Life that suffered Death.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> All may see <hi>Muggletons</hi> darkness, here again, of God, and Christ. For Christ he suffered in the flesh; he did not dye as he was God, for if he had died as he was God, why did he cry, <hi>Why hast thou forsaken me?</hi> So he suffered as in the flesh. And much more might be said to this, which would be a Riddle to <hi>Muggleton, Page,</hi> 29.</p>
+               <p>Mugl. Saith, <hi>He knowes that the Quakers do not regard to look in<g ref="char:EOLhyphen"/>to others Writings but their own; therefore he leaves them to their con<g ref="char:EOLhyphen"/>ceited Light of Christ within.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here are two more lyes from the scoffing Prophet. As for others Writings, we have tryed them more than thee, or any other People have done, for we do try all things; and thou who art so full of darkness within thee, canst not abide the Light, but art one of them that hated the Light, and callest the divine and spiritual Light of Christ within, <hi>a Conceit;</hi> which will be thy eternal condemnati<g ref="char:EOLhyphen"/>on, whose Cursings hath blinded thee.</p>
+               <p>And <hi>Muggleton,</hi> thy Cursing <hi>Samuel Hutton,</hi> and <hi>William Smith,</hi>
+                  <pb n="20" facs="tcp:56918:11"/>and Damning their Souls and Bodies, and saying, <hi>Your Light with<g ref="char:EOLhyphen"/>in, and your God without, cannot deliver you from my Sentence.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Poor silly Captive, who knows not what the Soul, nor God, nor Christ, nor his Light, nor his Life is; and in that thou hast Damned others, thou hast damned thy self; so a clamorous Woman hath plucked her own house upon her own head; but Christ the Light, which is manifested within, will bruise thy god of the worlds head, though he be a Prince of darkness, and God through Christ hath delivered us, and set us above all Curses and cursed Spirits, Glory to his Name for ever, and thy Cursings and thy Damnings go away like a smoak, and turn back into thy own Bowels and Temple, which is filled with it; and we can try Spi<g ref="char:EOLhyphen"/>rits, and have tryed thine to be as bad as any in the world.</p>
+               <p>Muggleton saith, <hi>The Quakers have done much good, they have cast out Devils, and yet they are of the Seed of the Serpent.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> What contradictions are these, <hi>Muggleton?</hi> the Devil is out of Truth, there is no truth in him, but speaks of himself, as thou dost, he is a lyar from the beginning; for he that doth good is of God, and the <hi>Quakers,</hi> thou saist, <hi>have done much good,</hi> and there<g ref="char:EOLhyphen"/>fore they must be of God, and not of the Serpent (as thou saiest they are) but this, <hi>Muggleton</hi> the Witness cannot see <hi>Babylon</hi> in him here.</p>
+               <p>Though <hi>Muggleton</hi> pretends God, yet he is of his Father, who is a Lyar from the beginning; thy language betrayes thee, the Devil doth evil; he that is of him, like thee, is the same. He that is of God, as before-said, doth good, for they that have the least spark of the divine Light ruling in them, can judge both thy spirit and thy words, to be of thy Father, that is out of Truth.</p>
+               <p>Mugg. saith, <hi>God, the King of Heaven, is not in the world at all.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here are more of thy lyes, for thou dost confess that Christ is God; and <hi>John</hi> saith, <hi>He was in the world, and the world knew him not.</hi> Here thou hast given <hi>John</hi> the Evangelist the lye. And yet in another place, thou sayest, <hi>That thou art John Baptist.</hi> See what lyes and confusion is this. And the Apostle saith, <hi>He is in all, and through all, and above all, God blessed for evermore.</hi> And, <hi>Is there any voyce or language where he is not.</hi> And the true Prophet saith, <hi>He fills Heaven and Earth.</hi> But the false Prophet saith, <hi>God, the King of Heaven, is not in this World at all.</hi> But the true Prophet
+<pb n="21" facs="tcp:56918:11"/>saith, <hi>He beholds all the actions of men, the evil and the good.</hi> And <hi>Da<g ref="char:EOLhyphen"/>vid</hi> saith, <hi>If he were in the nethermost Hell, he was there.</hi> But <hi>Muggle<g ref="char:EOLhyphen"/>ton</hi> knows not that yet, who manifests his darkness and his igno<g ref="char:EOLhyphen"/>rance of the Region of all the holy men of God, of their Circuit and Passage, who passed through the paths of Hell, and Death, and saw through depths and heights, <hi>Page.</hi> 39.</p>
+               <p>Mugl. Saith, <hi>There is great need that God should make some mor<g ref="char:EOLhyphen"/>tal man Judge of the Quakers,</hi> whom he calleth, <hi>A cursed Sect.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This mortal man is <hi>Muggleton</hi> the false Witness, so no spiritual man, for <hi>the spiritual man judgeth all things;</hi> and so this mortal man judgeth with his mortal spirit, and mortal judgement, and a mortal witness, and a mortal message, with a voice from his Fathers dark spirit the Devil, and yet this mortal man <hi>Muggleton</hi> is Judge, is the Last witness; so he is Judged out of his mouth, that he cannot judge all things, for it is <hi>a spiritual man that judgeth all things.</hi>
+               </p>
+               <p>And as for <hi>Muggletons</hi> saying, <hi>The cursed Sect of Quakers.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> They who are in scorn called <hi>Quakers,</hi> are it the power of God before Sects were, who comprehend thy mortal judgement. Yet <hi>Muggleton</hi> in another place commends the <hi>Qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>kers,</hi> and after he curseth them, soul, and body, and spirit to all Eternity; this is <hi>Muggletons Babel</hi> and Confusion, who will sink himself with his Cur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, and lay more upon himself than he can bear at last, when his fuel is set on fire; and the <hi>Quakers</hi> will be clear of him.</p>
+               <p>Mugl. Saith, <hi>A Commission is given to him and</hi> John Reeve, <hi>by the voyce of words from God.</hi> And then <hi>Muggleton</hi> contradicts him<g ref="char:EOLhyphen"/>self and saith, <hi>God had spoken to</hi> John Reeve <hi>in</hi> 1651. And so <hi>Mug<g ref="char:EOLhyphen"/>gleton</hi> doth not say he had it from God, but from <hi>John Reeves</hi> mouth, he must be his mouth; and before <hi>Muggl.</hi> said, <hi>he had it from God.</hi> O <hi>Muggleton,</hi> is thy jugling found out! And <hi>John Reeve</hi> should be the last Messenger and Witness. Here <hi>Mug.</hi> gives <hi>J. Reeve</hi> the lye; for he saith, <hi>He is the last Witness;</hi> and <hi>Mug.</hi> saith, <hi>If he should dye, his dis<g ref="char:EOLhyphen"/>ciples should be witnesses, what contradicted thy self against</hi> Muggleton. But you must take notice it must be some mortal man that must be raised up, and what must be his Message but to Curse, we have e<g ref="char:EOLhyphen"/>nough of them <hi>Muggleton</hi> raised up already; but that which thy spirit begot are Cursers and not Blessers, so not the Witnesses of Christ; so this voyce was but a whispering of Satan, which came
+<pb n="22" facs="tcp:56918:12"/>to <hi>John Reeve,</hi> which <hi>Muggleton</hi> is one of his Emissaries, which pub<g ref="char:EOLhyphen"/>lisheth his Charmes, <hi>Pope</hi>-like, with Bell, Book and Candle.</p>
+               <p>And <hi>Muggleton</hi> saith, <hi>That he and</hi> John Reeve <hi>were chosen as</hi> Mo<g ref="char:EOLhyphen"/>ses <hi>and</hi> Aaron. And saith, <hi>If it should be Objected, that</hi> Moses <hi>did Miracles,</hi> he saith, <hi>there is need of Faith to believe, to have Miracles from him.</hi>
+               </p>
+               <p>
+                  <hi>Answ. Moses</hi> did Miracles though there were no Faith in <hi>Pha<g ref="char:EOLhyphen"/>raoh,</hi> unto whom he was sent. This is a weak Argument indeed, as to shuffle off his Commission, that is before all the Apostles, as he saith; but what miracles hath been wrought among thy Disciples, who do believe, whom thou boastest of in thy lying Pamphlet, that thou hast spread so far up and down the world, and thy lying Com<g ref="char:EOLhyphen"/>mission. What, is there no miracle, not no signe, not so much as the sign of <hi>Jonas</hi> amongst you? No, they may say, thy work is to cover people with darkness and Curses.</p>
+               <p>Muggleton saith, <hi>The Quakers hearken to the Light within, but they despise the Body and Person of Christ without them, and so they are Anti. Christ,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> Here are more lies of the false Prophets. For Christ that died at <hi>Jerusalem,</hi> his Person we own without us, who is mani<g ref="char:EOLhyphen"/>fested within us. The Light of Christ Jesus, by which we have seen of his Glory, and speak in his Person. And this Light of Christ hath condemned thee, who art choaked with evil, and malice, and envy against Christ; thou that speakest so blasphemously against his Light, speakest against Christ, for he that his Light hates, hates him, and he that denies the Light denies his Person. And we must tell <hi>Muggleton,</hi> that <hi>Solomons</hi> Books in the Bible, are good Scrip<g ref="char:EOLhyphen"/>ture though he despiseth them as not good, he being not in the Spi<g ref="char:EOLhyphen"/>rit of <hi>Solomon</hi> that gave them forth.</p>
+               <p>Muggleton saith, <hi>It is in his power to acquit and condemn, yet God cannot reverse his sentence.</hi> And <hi>Muggleton</hi> saith, <hi>He curseth not until they judged him first.</hi> Yet in another place he curseth all the <hi>Quakers,</hi> and condemnes, that they should never be saved in the state they live in. And so see his contradictions, how he sets him<g ref="char:EOLhyphen"/>self above God.</p>
+               <p>And <hi>Muggleton</hi> saith, <hi>That in</hi> Darby-shire <hi>he fled from the De<g ref="char:EOLhyphen"/>vils malice,</hi> meaning the Magistrates; and yet he said before, <hi>he Cursed none but the Devil.</hi> It seems the Devil made <hi>Muggleton</hi> fly
+<pb n="23" facs="tcp:56918:12"/>here, he was too strong for him; he was not able to withstand the Devil, it was but reason he should be cast into Prison, for <hi>Reason is the Devil,</hi> thou saiest; so thou canst not say it was unreasonable, according to thy own judgement; for if they had whipped thee or beat thee, it is but reasonable, for <hi>Reason</hi> is the Devil still. If they had kept thee in Prison until this day, it is but Reason still; why dost thou say it is the Devils malice. And so all the Blasphemers, and false Swearers, and Cursers are but <hi>Reason,</hi> that is <hi>Muggletons</hi> Doctrine, his Devil is <hi>Reason.</hi> Thou canst not say that any judgeth thee falsly, for its Reason. <hi>Reason,</hi> thou saiest, <hi>is the Devil;</hi> and the <hi>Quakers</hi> are not deceived with other mens Commissions as thou art; for what hast thou but <hi>Reeves</hi>'s dead Commission for thy Curs<g ref="char:EOLhyphen"/>ings? and we receive not our Commission from the dead Letter, mens dead Commissions and Words, but from Christ and God, through whom onely thou saiest thou hast received a Commission from God, and another-while from <hi>Reeve;</hi> so receiving it from <hi>Reeve</hi> why not from dead mens words, for all is one <hi>Muggleton</hi> which thou hast taken up from <hi>Reeve,</hi> which came from him which was out of Truth, judged from the Spirit of Truth; he and thy Commission, and thy lyes; and so hast sufficiently proved thy self to be a false Witness, and Prophet, and Embassador.</p>
+               <p>
+                  <hi>Muggleton</hi> and <hi>John Reeve were chosen Chief Witnesses,</hi> and to prove it he saith, <hi>Peter was chosen Chief Judge.</hi> And he saith, <hi>That Christ doth not teach every man particularly by his Spirit now; and Interpre<g ref="char:EOLhyphen"/>tation of Scripture doth not belong unto Christ, but to</hi> Muggleton, <hi>for <gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e can Interpret Scripture but himself, and neither doth any know the Scriptures but himself,</hi> Page 60.</p>
+               <p>
+                  <hi>Answ.</hi> Here people may see <hi>Muggletons</hi> Blasphemies and Lies, for <hi>Peter</hi> was not Head of the Apostles, and chief Judge; but they were Brethren; and as I said before in the <hi>Acts,</hi> it was <hi>James</hi> that gave counsel among the Apostles, and it was Christs command that they should not exercise Lordship one over another as it was among Heathens, but this Heathen <hi>Muggleton</hi> would have Lord<g ref="char:EOLhyphen"/>ship, for Christ was chief Judge among the Apostles. And the Pro<g ref="char:EOLhyphen"/>phet saith, <hi>All the Children of God shall be taught of God.</hi> And Christ saith, <hi>It is written in your Law, ye shall all be taught of God.</hi> And can they be taught of God, <hi>Muggleton,</hi> and not hear his voice, and the manifestation of the Spirit of God is given to every one to profit
+<pb n="24" facs="tcp:56918:13"/>withall; so thou hast denyed Christ, and the New-Covenant, which is, <hi>That all shall be taught of God; and ye shall all know him from the least to the greatest, and shall not need to say, know the Lord, for he will poure out of his Spirit upon all flesh, and his Sons and Daughters shall Prophesie;</hi> mark, <hi>all flesh.</hi>
+               </p>
+               <p>And as for thy exceeding lying against Christ, who saist, <hi>It doth not belong to him to interpret Scriptures;</hi> now mark, people, his Blas<g ref="char:EOLhyphen"/>phemies and Lyes, do not ye see and comprehend his false spirit, for doth not Christ say, <hi>That his Spirit of Truth, which he sends, shall lead them into all Truth?</hi> Did not he come to fulfil the Scriptures? and doth he not say, <hi>That he opens and no man shuts?</hi> And doth not <hi>John</hi> say, <hi>No man was found worthy to open the Book but the Lyon of the Tribe of</hi> Judah? And was not <hi>Christ Anointed to Preach?</hi> And many other Scriptures, which the Spirit of Truth hath given forth, might be instanced. For is there any thing to be known of the Scripture, which are the things of God and Christ, but by Christ? and so, Is not he to have the Glory in all? And as for <hi>Muggletons</hi> Interpret<g ref="char:EOLhyphen"/>ing of Scriptures by the lying spirit, which never gave them forth, hath sufficiently manifested his insufficiency in that, and so thou art neither messenger of the Letter nor of the Spirit, who callest thy self <hi>A Chief and Last Judge.</hi> But they that be in the Spirit of Christ comprehend thee and thy Judgement, who see Christ to be the First and the Last Judge, whose stone is fallen upon thy head, and will grind thee to powder.</p>
+               <p>And the <hi>Quakers</hi> do not say as <hi>Muggleton</hi> lyingly doth, <hi>That reading over of other mens Conditions, or Words, or Letters, or Scrip<g ref="char:EOLhyphen"/>tures, will make a man a Minister:</hi> For they are neither a Witness nor Commissioned according to the Scriptures, nor them that gave them forth, though thou boastest in thy presumptuous spirit, and evil, <hi>That thy Commission is higher than the Apostles,</hi> which thou canst do no otherwise then lye to make it good, because thou goest con<g ref="char:EOLhyphen"/>trary to them all; for Christ is the Chief Judge, ordained of God, which thou blasphemest against his Light in People, and dost not o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly blaspheme against i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, but him.</p>
+               <p>And also <hi>Muggleton</hi> falleth a railing against the <hi>Quakers,</hi> and cal<g ref="char:EOLhyphen"/>leth them <hi>Blind,</hi> because they let him see how much contrary to Scripture he is, by his false Commission and Witness; and the Jewes were out of the life of the Law and the Prophets, that were
+<pb n="25" facs="tcp:56918:13"/>against the Apostles, for the Apostles proved by the Law and he Prophets, what they spoke, so cannot <hi>Muggleton;</hi> and thou art as ignorant of the true God as other men are; and so the <hi>Quakers</hi> do bear their Testimony, and have the Testimony of Jesus against thy false Commission and Lyes, and it is the Spirit that led them to give forth the Scriptures by which they are seen again.</p>
+               <p>And <hi>Muggleton</hi> seemes to be offended because the <hi>Quakers</hi> do not Print his Lyes; and saith, <hi>It would have saved him trouble and charges.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> No, it is the Truth that we mind, and for Truths sake have we written this in answer against thy Lyes, which will pursue thee, and will gather up thy Lyes and Blasphemies into Bundles for the fire.</p>
+               <p>Muggleton saith, <hi>He wondred what Lord it is the</hi> Quakers <hi>are so bold in.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Muggleton saith, <hi>He knowes the right Devil, and the right God;</hi> and yet he saith, <hi>He marvels what Lord he is.</hi> Well People, this is the mortal mans Judgement, <hi>Muggleton,</hi> but we do not mar<g ref="char:EOLhyphen"/>vel at the false Prophet <hi>Muggletons</hi> marvellings, who comprehend him and his god of the world.</p>
+               <p>Muggleton saith, <hi>There is no God nor Christ but what is within the</hi> Quakers; and yet he saith, <hi>There is no God nor Christ without them that can deliver them from his Curse.</hi> How now <hi>Muggleton? Babel</hi> again! What Confusion and Contradiction is this? And the Pro<g ref="char:EOLhyphen"/>phet <hi>Muggleton</hi> with his breath can blow away their Lord.</p>
+               <p>
+                  <hi>Answ.</hi> That Christ which Suffered, and Rose again, and Remains in the Heavens, which is manifested in his People; that God which is over all, in all, through all, and above all, blessed for ever, this is he who <hi>Muggleton</hi> saith, <hi>He can blow away with his breath;</hi> whom the <hi>Quakers</hi> own, which for his Blasphemies will have his sentence and reward from the living God, <hi>&amp;c.</hi> As for thy foul breath, which comes from the foul spirit of thy father, which is the god of the world, whose head is bruised by Christ, and the <hi>Quakers</hi> are over.</p>
+               <p>Muggleton saith, <hi>He must be as</hi> Peter, <hi>and a true Shepherd layes down his life for his Sheep.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> But thou runst away from thy Sheep in <hi>Derby-shire.</hi> when thou saidst, <hi>The malice of the Devil made thee fly;</hi> and thy Judge<g ref="char:EOLhyphen"/>ment
+<pb n="26" facs="tcp:56918:14"/>will stand against the <hi>Quakers,</hi> as thy god of the world doth, which will have an end.</p>
+               <p>And <hi>Muggleton</hi> saith in his rage, <hi>That God hath made him a Judge of the Light of Christ within you, and of the Infinite Spirit which ye call God;</hi> Yet he saith, <hi>he is a</hi> John Baptist <hi>to prepare the way.</hi>
+               </p>
+               <p>
+                  <hi>Answ. John Baptist</hi> was not a Judge of the Light of Christ, nei<g ref="char:EOLhyphen"/>ther doth he say he was a Judge of God and Christ within, and the Infinite Spirit which Blasphemous <hi>Muggleton</hi> doth, who is of ano<g ref="char:EOLhyphen"/>ther Spirit then the Prophets and Apostles, who said, <hi>God should dwell in you: and the Light that shined in your hearts,</hi> &amp;c. And so its very like thou dost judge like <hi>Pharaoh,</hi> and the Heathen, and the Jews, of God and Christ; and thy god of the world hath made thee a Judge: But both thee and thy god are judged by God, and Christ, and his Life, and his Infinite Spirit which dwells in his People. We must tell thee <hi>Muggleton,</hi> he cannot judge us, nor God, no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Christ, but with his evil thoughts, and his Judgement doth not touch us, and we are clear from his Judgement; for that which thou hast Judged is thy Judge, and hath Judged and Condemned thee, the Witness in thy Conscience shall answer it.</p>
+               <p>
+                  <hi>Answ.</hi> Muggleton falls a railing against the <hi>Quakers,</hi> and calls them <hi>Proud and Stiff-necked.</hi> Why <hi>Muggleton,</hi> didst not thou say, <hi>The Neck of the</hi> Quakers <hi>was broke,</hi> and now, <hi>they are so stiff-necked thou canst not bend them?</hi> It seems those that tremble at the Word of God trouble <hi>Muggleton,</hi> and torment him, as in <hi>Page</hi> 52, and thou dost not know the <hi>Quakers</hi> Doctrine, who art in the Spirit of witchcraft; thou speakest like unto thy Brother <hi>Robins.</hi> And <hi>Mug<g ref="char:EOLhyphen"/>gleton</hi> is troubled because the <hi>Quakers</hi> cry against the Pride of the World, so thou must needs uphold the Kingdom of Pride which is the Devils. Thou speakest much of <hi>John Robins,</hi> and the Spirit of Antichrist running through the Bodies of the <hi>Quakers,</hi> and saist <hi>they are all fighters against God, and have gotten a Christ within them, and that no man can almost tell how to deal with them,</hi> Muggleton saith.</p>
+               <p>
+                  <hi>Answ.</hi> What <hi>Muggleton,</hi> more lyes and contradictions? Doth Christ fight against God? the spirit of Antichrist that is in thee doth not know how to deal with Christ, and God that dwells in his People; For Christ and God are one, which comprehend both thee and <hi>Robins</hi> to be the fighters against God and Christ, who will grind you to powder.</p>
+               <pb n="27" facs="tcp:56918:14"/>
+               <p>And thou saist, <hi>The Quakers deny the Resurrection.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> That's another lye; they do own the <hi>Resurrection of the Just and the unjust;</hi> and therefore thou that art of the nature and seed of the Serpent, as thou speakest to the <hi>Quakers,</hi> fightest against Christ, who will bruise thee to pieces in thy false Message; and again that which God works in man according to the Doctrine of Christ and the Apostles, thou art against, who said, <hi>God will dwell in man, and Christ will dwell in man;</hi> at which thou railest so much, because thee and thy Father cannot get your lodging in the <hi>Quakers.</hi>
+               </p>
+               <p>Muggleton saith, <hi>If he had lived in the dayes of Christ, he should hardly have found his name recorded in the Law and Prophets; and the Scriptures are given into</hi> Muggletons <hi>hands, none must interpret them but himself.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here is thy ignorance again manifested, of the false Witness and Prophet; Was not Christs Name written in the Law and Prophets? yea, and after the Law too. Read <hi>Jacobs</hi> Prophesie to his Sons, and read in <hi>Isaiah's</hi> Prophesie. And doth not Christ signifie <hi>Anointed,</hi> and Jesus <hi>a Saviour?</hi> See if thou canst not find this Name in the Old Testament, in many places. <hi>Muggleton</hi> is not in the Spirit that gave forth Scriptures, but being in a blind spirit, and following his own spirit that can see nothing, like a blind Prophet, yet he saith, <hi>that he is made Judge of the Scriptures,</hi> who is Judged by the Spirit of God that gave them forth; and so we can try thy Doctrine with the Light of Christ Jesus, which thou hast Judged, which is thy Condemnation.</p>
+               <p>And thou saist, <hi>Thou condemnest our Christ and Light,</hi> which is thy Judge and Condemnation, and wouldest have all people be<g ref="char:EOLhyphen"/>lieve in thy Doctrine of Lyes. And <hi>Muggleton</hi> saith, <hi>The</hi> Quakers <hi>think to have Eternal Life in the Scriptures.</hi> This is another of the false Prophets Lyes, for our Eternal Life is in Christ before Scrip<g ref="char:EOLhyphen"/>tures were.</p>
+               <p>Muggleton saith, <hi>Dorthathy,</hi> which is one of his hearers, <hi>is not to judge of his Doctrine, neither hath she power to try his Doctrine,</hi> nei<g ref="char:EOLhyphen"/>ther will <hi>Muggleton</hi> allow her to try it.</p>
+               <p>How now! <hi>Muggleton</hi> hath made himself a Pope, People must believe Implicitly; this is contrary to the Apostle, that saith, <hi>Try all things,</hi> &amp;c. and commended the <hi>Bereans, that did search to see whe<g ref="char:EOLhyphen"/>ther these things were so or no.</hi> But we saw before where <hi>Muggleton</hi>
+                  <pb n="28" facs="tcp:56918:15"/>was, that he would not have his Doctrine questioned, nor tryed; for it his Disciples did but question him, or try him and his Do<g ref="char:EOLhyphen"/>ctrine, and let him see his Lyes, he would fall a Cursing of them, but he must have them to be his Slaves and Vassals, to sow his Seed; and so this is fulfilled, <hi>Such as are overcome by him, are brought in<g ref="char:EOLhyphen"/>to bondage;</hi> for he saith, <hi>He Judgeth none but such as Judge him first;</hi> but a Lye is found in his mouth, in this, as you may read <hi>Page</hi> 51. But though he will not suffer his Disciples to try him, nor to judge him, whom he hath darkned and lead from the Spirit of Truth, and the Light of Christ within them, and scoffs at God and Christ dwel<g ref="char:EOLhyphen"/>ing in man, that he might fill them with the Serpentine Seed, and his poisonous Inchantments and Witchcrafts, yet the Spiritual man doth try <hi>Muggletons</hi> Doctrine and Commission, and we have pow<g ref="char:EOLhyphen"/>er to examine and try by the Spirit and Power of the Living God. both to judge and try, and can say that the <hi>Spiritual man judgeth all things, yet himself is judged of no man;</hi> for they cannot judge him indeed; and the false Witness with his Commission will be cut down with the Spirit, the Word of God; for <hi>Muggletons</hi> Barn is but as the Stable to Christ the Seed, and thy sword and <hi>Cains</hi> weapons will turn into thine own head, and into thine own Bowels.</p>
+               <p>And <hi>Muggleton</hi> saith, <hi>The</hi> Quakers <hi>despise their fellow-creatures.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here again thou addest lye unto lye, for the <hi>Quakers</hi> love all Creatures, as they are the Creatures of God, and have re<g ref="char:EOLhyphen"/>spect to that of God in all; their fellowship lyes in the Spirit of God.</p>
+               <p>And <hi>Muggleton</hi> saith, <hi>That there is never a Minister of Christ, said to be authorized from God, without him, or man without him, for the Light of Christ within never made any Minister of Christ;</hi> and then thou railest and callest the <hi>Quakers, Blind.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To which we Answer, and say, That the knowledge of God is within, and none knows God but knows Christ, and no man knows the Father but the Son, and he reveals him, and when the Son is revealed in Man, he preaches him; but this is without <hi>Muggleton,</hi> and such as are made Ministers by him, but such as are made not of man, nor by man; but <hi>Muggleton</hi> is authorized by <hi>John Reeve,</hi> who hath received his Commission to Curse from the evil spirit, and not from the Spirit of Christ in the Apostles, which saith, <hi>Bless and Curse not.</hi>
+               </p>
+               <pb n="29" facs="tcp:56918:15"/>
+               <p>Muggleton saith, <hi>That</hi> Moses <hi>and the Prophets had no other Scri<g ref="char:EOLhyphen"/>pture to Interpret but their own Prophesies.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> What canst thou not see the Law <hi>Muggleton?</hi> Had not they the Law to interpret as well as their own Prophesies? Much more might be said to it, but it is like the rest of thy Ignorance.</p>
+               <p>Muggleton saith, <hi>The Apostles Commissions were of the Blood, and this was the Gospel of Christ.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Their Commission was, that they were Witnesses of his Resurrection as well as of his Blood, and of the Flesh of Christ, and of his Bones, as well as the Blood; but <hi>Muggletons</hi> dark spirit will limit it to the Blood, and they were Witnesses of the Gospel which was the Power of God.</p>
+               <p>And then <hi>Muggleton</hi> saith, <hi>He knows more spiritual things then either the Prophets or Apostles did since the beginning of the world; and he knows more then any to the worlds end.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here he manifests his Pride and Presumption, and his Ignorance, as afore mentioned. <hi>Muggleton,</hi> thou shouldest have let another have praised thee, and not have praised thy self, whose knowledge is contrary to the Prophets and Apostles and Christ Je<g ref="char:EOLhyphen"/>sus, who hast exalted thy self above all that is called God, who art one of them that boast they know, but know nothing as they ought to know. And thou saist, <hi>Thou hast an understanding of the Scriptures above all men;</hi> here thou exaltest thy self above Christ, for he is a man; but the man Christ Jesus will bruise thee to pieces, which is manifested in his People.</p>
+               <p>Muggleton saith, <hi>He never cursed any through envy and malice;</hi> and he saith, <hi>He never cursed any, nor judged any, till they judged him.</hi> What is this but envy and malice; for Christs words are, <hi>when they Curse, do you Bless.</hi> But <hi>Muggleton</hi> hath proved himself to be of another Spirit then Christ and the Apostles, and so it is com<g ref="char:EOLhyphen"/>prehended and judged, and so thy Power, and thy Commission, and thy god of the world, from whence it comes, is judged, being the same as ever rose against Christ, and the Prophets, and Apostles since the world began, <hi>&amp;c.</hi> As for thy sentence and curses, they go to the Pit with thee, from whence they came; they are nothing to us, we are clear of them, neither thy Blessings nor thy Curs<g ref="char:EOLhyphen"/>ings.</p>
+               <p>Muggleton saith, <hi>He hath a Pardoning power and a Damning pow<g ref="char:EOLhyphen"/>er,
+<pb n="30" facs="tcp:56918:16"/>which he received from</hi> John Reeve, <hi>and he would have Curst him (meaning</hi> Muggleton) <hi>to all Eternity if he had not yeelded obedience to</hi> Reeve.</p>
+               <p>
+                  <hi>Answ.</hi> Here it seems <hi>John Reeve</hi> frighted <hi>Muggletons</hi> evil Con<g ref="char:EOLhyphen"/>science, by that means he received that cursing spirit, which pre<g ref="char:EOLhyphen"/>sumptuously he hath followed these many years, and so received this cursed doctrine and spirit; and then, it's like he received <hi>John Reeves</hi>'s Blessing, and here he became Pope-like, with his evil spi<g ref="char:EOLhyphen"/>rit to pardon whom he will; and such as flatter him, he Blesseth, and such as judge him, he Curseth, as he hath said. And here peo<g ref="char:EOLhyphen"/>ple may see the ground and rise of this dark spirit, out of Truth, comprehended by it, and judged into the Pit with its motion, Com<g ref="char:EOLhyphen"/>mission, and false Witness, who hath so often blasphemed against the holy Spirit; who saith he is an Accuser, a Judge, and a Wit<g ref="char:EOLhyphen"/>ness, and a great deal of Rambling stuffe, about outward Judges, and Laws, and Juries which he is ignorant of; as in the Scriptures, who is like unto the Servant that Christ speaks of, who art the Accu<g ref="char:EOLhyphen"/>ser of the Brethren, spoken of in the <hi>Revelations,</hi> cast out into the Earth, therefore thou ragest. Christ said, He did not accuse the Woman taken in Adultery. And Christ said, <hi>John</hi> 5. <hi>Do not think I will accuse you to the Father; there is one that accuseth you,</hi> Moses, <hi>in whom ye trust:</hi> But this is little to <hi>Muggleton.</hi>
+               </p>
+               <p>Muggleton saith, <hi>He is in rest and Eternal happiness.</hi> And yet <hi>Muggleton</hi> and <hi>John Reeve</hi> say in the Book called, <hi>A Transcendent Spiritual Treatise,</hi> That, <hi>this Book was penned by a sinful man.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> How now, what <hi>Muggleton</hi> and <hi>John Reeve,</hi> what, a sin<g ref="char:EOLhyphen"/>ful man in perfect rest and happiness! Can a sinful man give out heavenly and spiritual Doctrine? See the 37 <hi>Page</hi> in thy <hi>Transcen<g ref="char:EOLhyphen"/>dent Spiritual Treatise,</hi> and see thy <hi>Page</hi> 41. of the <hi>Quakers Neck<g ref="char:EOLhyphen"/>broken,</hi> and there thou mayest see thy contradictions, lyes and con<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sions: for the perfect rest is <hi>Christ;</hi> Imperfections are in <hi>Adam</hi> in the fall; and if Christians have persecuted by National Laws, and God had Witnesses in the Earth for three hundred years after Christ as <hi>Muggleton</hi> and <hi>Reeve</hi> say, that all spiritualized Christians were persecuted, and yet God never had a Witness until <hi>Muggleton</hi> and <hi>Reeve</hi> came; so all the Martyrs that kept the Testimony of Jesus, are judged by <hi>Muggleton</hi> and <hi>Reeves</hi> lying spirit: but the Martyrs stood to their Principle, and did not sly from the Devil as <hi>Muggle<g ref="char:EOLhyphen"/>ton</hi>
+                  <pb n="31" facs="tcp:56918:16"/>did out of <hi>Derby-shire.</hi> Read through the Book of Martyrs, and read in his own Book, and ye may see how he hath confound<g ref="char:EOLhyphen"/>ed and contradicted himself. And thou sayest in the 76. page of thy Transcendency, <hi>That the Soul of</hi> Adam <hi>was of a Divine Nature,</hi> and yet in another place, <hi>That the Soul is mortal.</hi> What contra<g ref="char:EOLhyphen"/>dictions are here <hi>Muggleton?</hi> But it is like the rest, his Divine mortal: But thou art ignorant of Christs words, who sayes, <hi>If they can kill the Body, yet they cannot kill the Soul.</hi> What a carnal Judge? a poor mortal man, as thou sayes, God hath raised up.</p>
+               <p>
+                  <hi>Mugglet.</hi> Again, thou sayest in thy <hi>Transcendency, The sayings of</hi> Solomon <hi>are pure Truth;</hi> and yet thou saiest, in thy <hi>Neck of the Quakers broken,</hi> That <hi>Solomons Books are Apocrypha.</hi> What a con<g ref="char:EOLhyphen"/>tradiction is this? Apocrypha is not of Authority; Is pure Truth Apocrypha with thee? This is thy contradiction, blindness, and darkness, and like the rest of the fruits of thy dark spirit.</p>
+               <p>
+                  <hi>Mug.</hi> And thou saiest, <hi>Though men believe they have two Spirits in them, yet there is but one in mens bodies,</hi> in page 19. of thy <hi>Joyful news from Heaven.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Here thou hast manifested thy self to be of a right prin<g ref="char:EOLhyphen"/>ciple with the <hi>Ranters;</hi> This is a ranting principle indeed. I be<g ref="char:EOLhyphen"/>lieve there is something in thy self, and in all men, and in the Scriptures will witness against thee, which saith, <hi>That the flesh wars against the Spirit, and the Spirit against the flesh, and they are contrary,</hi> and so not one.</p>
+               <p>
+                  <hi>Muggleton</hi> and <hi>Reve,</hi> in page 47. of their <hi>News from Heaven,</hi> say, <hi>That the Spirit and the Soul is not capable of dying,</hi> and say, <hi>Why wouldst thou suffer thy self to be overtaken with sudden death? and why art thou so foolish as to suffer thy self to be over-topt with death?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This is the cry of the <hi>Wild Irish;</hi> this is not the cry of <hi>News from Heaven,</hi> but the cry of thy <hi>dark spirit;</hi> What can a false Prophet, and a false Commission, and a false Testimony, which comes from his Father, which is out of truth, b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing otherwise.</p>
+               <p>
+                  <hi>Muggleton</hi> and <hi>Reeve</hi> say, <hi>That Christ shed his blood for the sins of the Elect, and when Christ said,</hi> My God, my God, &amp;c. <hi>This God that Christ meant, was</hi> Elias, <hi>and you must understand the reason why Christ is onely God,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> Here in this thou hast shown thy darkness and ignorance
+<pb n="32" facs="tcp:56918:17"/>of the Scriptures, and the Spirit that gave them forth, like unto the <hi>Jews;</hi> for the Scripture doth not say that it was <hi>Elias</hi> the Pro<g ref="char:EOLhyphen"/>phet that Christ cryed unto; for no where in the Scriptures, by all the holy Men of God, nor Christ, nor God, is <hi>Elias</hi> the Prophet called God: Here thou hast judged as the <hi>Jews</hi> did. And <hi>who shall lay any thing to the charge of God's Elect?</hi> saith the Spirit that gave forth Scriptures, <hi>It is God that justifies:</hi> but thou hast charged them with sin, and manifested thy self not to be of God. <hi>Christ tasted death for every man,</hi> and dyed not for the Elect onely, as thou speaks of; and <hi>he was an Offering not for our sins onely, but for the sins of the whole world.</hi> Here is thy ignorance of the two Seeds, but this is the reason which thou wouldst have the Readers to under<g ref="char:EOLhyphen"/>stand. And before <hi>Muggleton</hi> said in his other Book, that <hi>Reason was the Devil.</hi> So according to thy own Argument, we must un<g ref="char:EOLhyphen"/>derstand by the Devil the things of God, and know Christ Jesus by the Devil; for in thy 34, and 37. pages, thou speaks of Reason without distinction; and Reason being the Devil according to thy Judgment, then men must understand by the Devil, and thy Judg<g ref="char:EOLhyphen"/>ment, and thy Prophesies, are all from him, according to thy own Judgement. The reason why thou sayest mens bodies are in Death, and in the Grave, and do not stink, and come to dust; this leaves little answer, for it is by thy Reason which thou callst the Devil, and he was a lyar from the beginning, and was the Father of it, of whom thou art; and so the Grave-makers may answer thee the rest, as touching peoples bodies.</p>
+               <p>
+                  <hi>Mug.</hi> Thou sayest, <hi>Three hundred years after Christ, nor since, there hath been a Minister, or Messenger of Christ;</hi> and this he de<g ref="char:EOLhyphen"/>clares and affirms; and then after again thou declarest and affirmest by Revelation, <hi>That it is fourteen hundred years since there was a true Minister.</hi> Here thou contradictest thy own Revelation, and hast shewed thy lying Spirit: for 1400. and 300. years, makes 1700. Here is about forty years difference, according to thy own ly<g ref="char:EOLhyphen"/>ing Spirit and Revelations; and many such contradictions, falsi<g ref="char:EOLhyphen"/>ties, and confusions thou hast in all thy Books, which a man might make a large Volumn of, in letting thee see thy contradictions; but they are so clearly seen and judged of by all the Righteous, that they are not worthy of Writing nor Printing such a pack of non<g ref="char:EOLhyphen"/>sence and confusion, worse then the very Priests Books; for this
+<pb n="33" facs="tcp:56918:17"/>is done for Truths sake, which, as I said before, will pursue thee and find thee out in all thy holes and corners, and will arraign thee to thy condemnation, for thou hast judged neither according to the Law of God nor Scriptures, nor the Laws of men, but according to thy own dark spirit; for the Spirit of God exhorts men to repent, and reproves, and rebukes before he judges; but thou in thy flesh<g ref="char:EOLhyphen"/>ly, rash, heady, hasty passion followest thy own spirit, and with it judgest that which is thy condemnation: so in judging another thou hast judged thy self, who art seen with the holy Spirit of Christ Je<g ref="char:EOLhyphen"/>sus to be vain; whose Commission, Prophesie, Witness is for con<g ref="char:EOLhyphen"/>demnation, and condemned and judged with the Spirit of Truth; and over thee is the true and faithful Witness Christ Jesus, the Corner-stone set, which will grind thee to powder. Fare thee well. And in Christ is his People that reign over thy head, that can re<g ref="char:EOLhyphen"/>joyce and raign over the head of the Curser.</p>
+               <p>
+                  <hi>Edward Brown,</hi> whom thou hast curst and damned, who is far above thee and thy father, in him that redeems out of the Curse, and destroys thee and thy father both.</p>
+            </div>
+            <div type="answer">
+               <head>Something in Answer to <hi>Thomas Fuller,</hi> in his <hi>Church-History,</hi> to that which he writes to Baron <hi>Brook,</hi> wherein he Rayles against the <hi>Quakers.</hi>
+               </head>
+               <p>
+                  <hi>First,</hi> HE saith, <hi>They cast off their Clothes, until the Cold convert<g ref="char:EOLhyphen"/>ed them to more Civility.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> This doth not become <hi>Thomas</hi> to record Lyes. For the People that are in scorn called <hi>Quakers,</hi> it was not the Cold that converted them. And why dost not thou record <hi>Isaiah,</hi> and judge him that went naked and barefoot three years together, as one of them (thou in scorn callest <hi>Quakers</hi>) did, being moved of the Lord? which was a sign or figure of all your nakedness, and the rest of them.</p>
+               <p>
+                  <hi>Secondly,</hi> Thomas <hi>is offended because the People, which he in scorn calleth</hi> Quakers, <hi>say to one single person, Thee, and Thou.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> If <hi>Thomas</hi> had not shewed himself ignorant of the Scrip<g ref="char:EOLhyphen"/>tures, and forgotten his <hi>Accidence</hi> and <hi>Grammer</hi> he learned (if any)
+<pb n="34" facs="tcp:56918:18"/>he would have seen in the Scriptures, from the highest to the lowest, that the People of God used the word, <hi>thee</hi> and <hi>thou.</hi> And if he had spoken <hi>you,</hi> when he should have spoken <hi>thou</hi> in Latine, his Master would have gon near to have whipt him. And then <hi>Thomas</hi> falls a begging to the (then present) Powers, like unto the <hi>Jewes</hi> against the Apostle, <hi>Help men of Israel,</hi> to Persecution. And <hi>Thomas</hi> his envy hath so choaked him that he hath forgotten what is said in the Lords Prayer, <hi>viz. thy,</hi> and <hi>thee, &amp;c.</hi> And he saith also, because they use the word <hi>thou,</hi> &amp;c. <hi>They speak evil against Dignities, and against Ordi<g ref="char:EOLhyphen"/>nances of God,</hi> &amp;c. and saith, <hi>God grant that they may be seasonably suppressed.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Here thy envy and malice is seen again, <hi>Balaam</hi>-like, for it was the language of the Righteous, and no man found fault with it, to Superiour or Inferiour (as <hi>thou</hi> and <hi>thee</hi>) and Gods Ordinances they do not deny. And whereas thou callest upon God for the sup<g ref="char:EOLhyphen"/>pressing of them who inventest lyes, and then criest for help against them. But the living God, whom we serve, hears not the prayers of the Persecutor nor Lyar.</p>
+               <p>And <hi>Thomas</hi> saith, because they use the word <hi>thou</hi> to a Superiour, <hi>Here their Honours lye at the mercy of mens mouthes; so if they grow numerous, hereafter they will question the wealth of others, and condemn them for covetousness.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If all <hi>Thomas</hi> his History be like this, tis worth little to be credited, who begged Persecution of <hi>O. Cromwel,</hi> and when the King came in, turned to his Surplice. And if the honour due to Superiours lye in giving the word <hi>you</hi> to a single person, then thou mayest find fault with the Apostles and the Prophets, who said <hi>thou</hi> and <hi>thee</hi> to them; and so did the Prophets. But why doth not <hi>Thomas</hi> find fault with the <hi>Accidence</hi> and <hi>Grammar,</hi> and with them that translated the Scriptures, which did translate them Singular and Plural. See the <hi>Quakers Battledore,</hi> given forth for you to learn in.</p>
+               <p>
+                  <hi>A.</hi> As for your outward wealth we seek it not; but covetous<g ref="char:EOLhyphen"/>ness is reproved by the Spirit of Truth. And whereas thou art a<g ref="char:EOLhyphen"/>fraid we should grow numerous; we tell thee that God will spread his Truth abroad, and gather his Elect from the four Corners of the Earth. And the honour that all men are to be honoured withall, even Superiours, is not the word <hi>you</hi> to a single person, but to esteem
+<pb n="35" facs="tcp:56918:18"/>every man, and those that rule well, to have double esteem, and this is the true Honour, and such as do so will hurt no man. And <hi>Thomas</hi> is angry because they tremble at the Word of God; he there<g ref="char:EOLhyphen"/>in shews his ignorance of the Scriptures, and of the holy men of God, and such as be regarded of the Lord, who saith, <hi>This is the man I do regard, who is of a contrite and broken spirit, and trembleth at my Word,</hi> as in <hi>Isaiah</hi> may be read. And thou art like the perse<g ref="char:EOLhyphen"/>cuting Jewes, that despised them that trembled at Gods Word; but such the Lord often cutts off, and shortneth their dayes for the Elects sake.</p>
+            </div>
+            <div type="answer">
+               <head>Somthing in Answer to <hi>Samuel Clarke,</hi> who calls himself a Pastor, in his Book called, <hi>A Looking-Glass for Saints and Sinners.</hi>
+               </head>
+               <p>VVHerein he mentions the People of God (called <hi>Quakers</hi>) and numbereth them among the Scismaticks, and Here<g ref="char:EOLhyphen"/>ticks, wickedly; and he instanceth one <hi>Gilpine</hi> about <hi>Kendal</hi> in <hi>Westmerland,</hi> that somtimes came among the said People, which after the Priests had poysoned, and turned him to be a Souldier, who raised up many lies against the said people (called <hi>Quakers</hi>) which he and his brethren put for truths, which this <hi>Gilpine</hi> went from the people (called <hi>Quakers</hi>) and became one of theirs, and run out to bad actions, which if we should go to reckon all the bad actions of all their people, we might make a very great Volumn: But this <hi>Clarke</hi> (that calls himself a Pastor) might have <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooked in the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er to the Priests, and the said <hi>Gilpin,</hi> wherein they mani<g ref="char:EOLhyphen"/>fest their lies and slanders against the said People; but in stead of that, he's scoffing at the Light, and the Cross of Christ, and Pro<g ref="char:EOLhyphen"/>phesie, and of hearing the voyce of God and Christ, and yet he blusheth not to call himself a Pastor, and takes upon him to set forth an Abridgment of the Book of Martyrs, and a Mirrour or Looking-glass for Saints and Sinners; which makes them all que<g ref="char:EOLhyphen"/>stionable and unvaluable to the Faithful, as seeing his envy and rage in his scandal and lies against the people called <hi>Quakers,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hrust into his said Book, not having quoted any Author, as Historians use to do: therefore they lie upon his own head. But we perceive the thing that troubles <hi>Clarke,</hi> was, because the Ministers of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+                  <pb n="36" facs="tcp:56918:19"/>were proved to be false Prophets, and Priests of <hi>Baal,</hi> which in that day 1663 (nor since) they could never prove themselves other<g ref="char:EOLhyphen"/>wise: For read those Scriptures of the Kings, and see how like they were unto them in visage and practice; For above three thousand of the said People (called <hi>Quakers</hi>) were persecuted by them in their day, and some even unto death; which is an evident mark of Hereticks and Priests of <hi>Baal:</hi> for Christ Jesus saith, <hi>Love one another, love enemies;</hi> and Christ's Ministers keep his Command, because they love him. But <hi>Samuel Clarke</hi> scoffs at this Doctrine, who neither he nor his company could ever get from under these Scriptures following, As teaching for handfuls of Barley and pie<g ref="char:EOLhyphen"/>ces of bread, <hi>Ezekiel</hi> 13 &amp; 14th chapters; and of bearing rule by their means, <hi>Jer.</hi> 5. and greedy and dumb dogs that never have enough, seeking their gain from their quarter, <hi>Isa.</hi> 56, &amp; <hi>Micah</hi> 3. the chapters throughout, &amp; <hi>Matth.</hi> 23, and <hi>Ezek.</hi> 34. most of the chapter concerning the false Pastors, and 1 <hi>Tim.</hi> 3. and <hi>Rom.</hi> 16.18. and the Epistle of <hi>Jude,</hi> and 2 <hi>Peter</hi> 2. chap. through<g ref="char:EOLhyphen"/>out, &amp; <hi>Malachi</hi> the 2d, where the Curse is from God pronounced against you; and your blessings are cursed, and your seed corrupt, and dung spread upon your faces in your solemn feasts: All which Scriptures, with many more, you could never answer; and <hi>Gal.</hi> 3.10. with 1 <hi>Cor.</hi> 2, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:56918:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
